@@ -5,6 +5,7 @@ doc/master.zip
 doc/src/*GitHubIssues.adoc
 /build/
 /bin/
+docs/
 target/
 **/${project.build.directory}/
 /null/
@@ -22,7 +23,8 @@ libs/
 **/javadoc.sh
 **/options
 *.class
- 
+CLAUDE.md
+
 # Package Files #
 *.jar
 *.war
