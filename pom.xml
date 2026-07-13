@@ -11,7 +11,7 @@
     </parent>
     <groupId>io.interface21</groupId>
     <artifactId>preferences-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Interface21: Preferences Spring Boot Starter</name>
     <description>Spring Boot starter that pulls in the OpenWMS.org CORE Preferences library with auto-configuration</description>
@@ -36,8 +36,7 @@
     </developers>
 
     <properties>
-        <ameba-lib.version>4.3.0</ameba-lib.version>
-        <core.preferences.lib.version>1.2.0</core.preferences.lib.version>
+        <core.preferences.lib.version>1.2.1-SNAPSHOT</core.preferences.lib.version>
         <spring-plugin-core.version>4.1.0</spring-plugin-core.version>
     </properties>
 
